@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://elbowriver-casino.com/
+Sitemap: https://elbowriver-casino.com/sitemap.xml

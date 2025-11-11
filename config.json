@@ -1,0 +1,204 @@
+{
+    "en-CA": {
+        "styles": {
+            "bg": "#1F0202",
+            "lang-select-color": "#222829",
+            "bg-light": "#1F0202",
+            "welcome-bonus-bg": "#1F0202",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#350404",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#EAC30F",
+            "text-head": "#121111",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#EAC30F",
+            "yellow": "#E3280F",
+            "yellow-button": "#EAC30F",
+            "button-text": "#121111",
+            "main-button-text": "#121111",
+            "border-color": "#efefdc",
+            "casino-cards": "#170303",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#000033",
+            "pay-back": "#deeadf",
+            "providers-back": "#170303",
+            "faq-label": "#170303",
+            "bg-footer": "#170303",
+            "copyright": "#e7e7d5",
+            "starColor": "#E3280F",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "https:\/\/backend.builder.adkey.org:443\/api\/fonts\/download\/7",
+                "isCustom": true
+            },
+            "welcomeBonusFont": {
+                "value": "Roboto",
+                "isCustom": false
+            }
+        },
+        "seo": {
+            "name": "Elbow River Casino",
+            "title": "Elbow River Casino Calgary \u2013 Slots, Poker, Live Shows & Dining",
+            "description": "Elbow River Casino is Calgary\u2019s top gaming destination with 600+ slots, poker, live music, dining, and exciting promotions. Discover games, events, and more!",
+            "canonical": "elbowriver-casino.com",
+            "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/450",
+            "ogImageWidth": 1200,
+            "ogImageHeight": 630,
+            "twitterSite": "elbowriver-casino.com",
+            "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/437",
+            "keywords": "casino, online casino, gambling, slots, table games"
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/438"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/444",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Elbow River Casino Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "hero": {
+            "title": "Elbow River Casino \u2013 Gaming, Dining & Entertainment in Downtown Calgary",
+            "textDesktop": "Exclusive welcome offer of",
+            "textMobile": "Exclusive welcome bonus of",
+            "playGame": "Play game",
+            "claimBonus": "Claim Bonus",
+            "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/447",
+            "imageSizeModifier": 15,
+            "imageYModifier": -5,
+            "imageXModifier": 3,
+            "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/448",
+            "mobileImageSizeModifier": -8,
+            "mobileImageYModifier": 2,
+            "mobileImageXModifier": 0
+        },
+        "topCasino": {
+            "topCasinoButtonText": "Claim Bonus",
+            "title": "Top Casino",
+            "allCasino": "All Casino",
+            "welcomeBonusText": "Welcome bonus"
+        },
+        "bonusDetails": {
+            "title": "Bonus Details",
+            "getBonusButtonText": "Get Bonus",
+            "maximumAmountText": "Maximum amount",
+            "wagerText": "Wager",
+            "bonusCodeText": "Bonus Code",
+            "casino": "Casino",
+            "bonuses": "Bonuses",
+            "rate": "Rate",
+            "freeSpins": "Free Spins",
+            "moreInfo": "More Info",
+            "get": "Get",
+            "refresh": "Refresh"
+        },
+        "advantages": {
+            "title": "Advantages",
+            "advantagesBeforeText": "",
+            "items": [
+                "Wide selection of slots and table games",
+                "Live casino with real dealers",
+                "New games added every week",
+                "High return-to-player (RTP) rates",
+                "Fast payouts and convenient deposits",
+                "Generous bonuses and loyalty program"
+            ],
+            "advantagesAfterText": "",
+            "knowMore": "Know more",
+            "appTitle": "Elbow River Casino App",
+            "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/451",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "mobileAlt": "Elbow River Casino App",
+            "mobileGooglePlayImageTitle": "Elbow River Casino App",
+            "mobileIosImageTitle": "Elbow River Casino App"
+        },
+        "games": {
+            "playNowText": "Play now",
+            "title": "Popular Games",
+            "allGames": "All Games"
+        },
+        "about": {
+            "history": {
+                "title": "About Elbow River Casino",
+                "description1": "",
+                "items": [
+                    "Jackpot up to C$250,000",
+                    "Royal flush bonus win",
+                    "600+ progressive slots"
+                ],
+                "description2": "Elbow River Casino is a cozy and vibrant destination for fans of gaming and entertainment. The casino offers a wide selection of slot machines and table games, including poker and roulette. Live performances and music shows are held regularly, adding to the festive atmosphere. Guests can enjoy a variety of cuisine at the buffet and restaurants. Conveniently located in downtown Calgary, it\u2019s easily accessible for both tourists and locals. The casino is known for generous bonuses and chances to win big. It\u2019s a great place for fun, excitement, and relaxation.\n",
+                "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/452",
+                "imageSizeModifier": 0,
+                "imageYModifier": 0,
+                "imageXModifier": 0,
+                "imageAlt": "History",
+                "description3": ""
+            }
+        },
+        "custom": {
+            "customHtml": {
+                "title": "The Winning Energy: Elbow River Casino in Calgary",
+                "description": "<p> Elbow River Casino is more than just a gaming venue \u2014 it\u2019s a full-fledged entertainment hub in the heart of Calgary. Located near Victoria Park Station and the iconic Stampede Grounds, the casino offers over 80,000 square feet of Vegas-style excitement. With more than 600 slot machines, including progressive jackpots, and over 30 table games like blackjack and poker, it\u2019s a paradise for gaming enthusiasts. The 24\/7 poker room hosts regular tournaments and promotions with real cash prizes.\n<\/p>\n<br>\n<p> The dining experience is equally impressive. Sammy\u2019s Sports Bar serves juicy steaks and wings while broadcasting major sports events on massive screens. Jester\u2019s Deli offers quick bites, and Jester\u2019s Buffet is known for its steak and lobster dinners. For fans of Asian cuisine, Dim Sum delivers authentic Chinese dishes like shrimp dumplings, spring rolls, and mango pudding. Prices are reasonable, and portions are generous.\n<\/p>\n<br>\n<p> Entertainment goes beyond gaming. Every Friday and Saturday, the Bayou Stage hosts free live music featuring local and regional talent. The casino is also home to Calgary\u2019s branch of Yuk Yuk\u2019s Comedy Club, with comedians performing Thursday through Saturday. The atmosphere is friendly, and the staff is attentive, making every visit enjoyable and memorable.\n<\/p>\n<br>\n<p> For overnight guests, Elbow River Casino offers 61 air-conditioned rooms with access to a cozy patio overlooking the Elbow River. Heated underground parking is available, which is especially convenient during colder months. The casino is open daily from 9:30 AM to 3:00 AM, and until 4:00 AM on weekends.\n<\/p>\n<br>\n<p> The Winner\u2019s Edge loyalty program lets players earn points, enjoy free drinks in the High Limit Room, and enter exclusive prize draws. Promotions like Royal Flush bonus payouts add extra excitement, and jackpots can reach up to C$250,000 \u2014 making Elbow River Casino a top destination for big win seekers.\n<\/p>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nElbow River Casino Visitor Rules: Comfort, Style & Safety\n<\/h3>\n\n<p> Elbow River Casino in Calgary offers guests a vibrant atmosphere of gaming and entertainment, while maintaining clear rules to ensure comfort and safety. The casino is open to anyone aged 18 and older, and no membership is required. However, valid ID is mandatory upon entry, especially for those who appear underage. The environment is welcoming, but the rules are enforced consistently.\n<\/p>\n<br>\n<p> While there is no strict dress code, guests are expected to dress neatly and appropriately. Beachwear, torn clothing, or overly revealing outfits may be considered unsuitable. The casino aims to maintain a stylish yet relaxed vibe where everyone feels at ease.\n<\/p>\n<br>\n<div\n lang=\"en\"\n     style=\"\n       -webkit-columns: 320px 2;\n       -moz-columns: 320px 2;\n       columns: 320px 2;\n\n        -webkit-column-gap: 1.2em;\n       -moz-column-gap: 1.2em;\n       column-gap: 1.2em;\n \n       hyphens: auto;\n\">\n\n\n   <!-- \u041b\u0435\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Key Visitor Rules<\/h4>\n        <ul>\n            <li>\u2022 Minimum age: 18 years\n<\/li>\n            <li>\u2022 Valid ID required at entry\n<\/li>\n            <li>\u2022 No membership needed \u2014 open access\n<\/li>\n            <li>\u2022 Casino hours: Daily 9:30 AM to 3:00 AM, until 4:00 AM on Fridays and Saturdays\n\n<\/li>\n        <\/ul>\n        <br>\n\n\n    <\/div>\n\n    <!-- \u041f\u0440\u0430\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Dress Code<\/h4>\n        <ul>\n            <li>\u2022 Neat casual attire\n<\/li>\n            <li>\u2022 Not allowed: beach shorts, swimwear, torn clothing, overly revealing outfits\n<\/li>\n            <li>\u2022 Footwear is required\n\n<\/li>\n        <\/ul>\n        <br>\n\n\n    <\/div>\n<\/div>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Additional Conditions<\/h4>\n\n\n        <ul>\n            <li>\u2022 Free drinks available in the High Limit Room\n<\/li>\n            <li>\u2022 Winner\u2019s Edge loyalty program offers points, bonuses, and prize draws\n<\/li>\n            <li>\u2022 Casino reserves the right to deny entry for rule violations\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nRock Star Loyalty Program: Play Like a Legend\n<\/h3>\n\n<p> Elbow River Casino offers its own loyalty program called Rock Star, designed to reward players for their activity with bonuses, discounts, and exclusive perks. Joining is free, and once registered, players receive a personalized card to insert into slot machines or electronic table games during play. Points are earned with every wager and can be redeemed for Free Play, contest entries, and food discounts.\n<\/p>\n<br>\n<p> The Rock Star program features four tiers, each unlocking greater benefits. Everyone starts at the Rock Star level, and by accumulating points, players can move up to Hall of Fame, Legend, and finally Icon. To reach the top tier, Icon, a player must cycle approximately C$300,000 through slot machines over a set period.\n<\/p>\n<br>\n<p> Members enjoy a 10% discount on food and non-alcoholic beverages, access to exclusive contests, and invitations to VIP events. Points can be redeemed for Free Play at a rate of 1,000 points = C$1, and special promotions throughout the year offer bonus points and cash prizes.\n<\/p>\n<br>\n\n<div\n lang=\"en\"\n     style=\"\n       -webkit-columns: 320px 2;\n       -moz-columns: 320px 2;\n       columns: 320px 2;\n\n        -webkit-column-gap: 1.2em;\n       -moz-column-gap: 1.2em;\n       column-gap: 1.2em;\n \n       hyphens: auto;\n\">\n\n\n   <!-- \u041b\u0435\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Rock Star Program Tiers<\/h4>\n        <ul>\n            <li>\u2022 Rock Star \u2014 starting level (from 15,000 points)\n<\/li>\n            <li>\u2022 Hall of Fame \u2014 from 50,000 points (\u2248 C$45,000 wagered)\n<\/li>\n            <li>\u2022 Legend \u2014 from 100,000 points (\u2248 C$150,000 wagered)\n<\/li>\n            <li>\u2022 Icon \u2014 from 100,000 points (\u2248 C$300,000 wagered)\n\n<\/li>\n        <\/ul>\n        <br>\n\n\n    <\/div>\n\n    <!-- \u041f\u0440\u0430\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Benefits<\/h4>\n        <ul>\n            <li>\u2022 Free registration\n<\/li>\n            <li>\u2022 10% discount on food and drinks\n<\/li>\n            <li>\u2022 Free Play: 1,000 points = C$1\n<\/li>\n            <li>\u2022 Exclusive contests and VIP access\n<\/li>\n            <li>\u2022 Bonus points during promotions\n\n<\/li>\n        <\/ul>\n        <br>\n\n    <\/div>\n<\/div>\n<br>"
+            }
+        },
+        "softwareProviders": {
+            "title": "Software Providers"
+        },
+        "custom_2": {
+            "customHtml_2": {
+                "title": "Entertainment and Gaming at  Elbow River Casino",
+                "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nBonuses & Wins: Maximum Thrills at Elbow River Casino\n<\/h3>\n\n<p>Beyond its loyalty program, Elbow River Casino offers a wide range of generous bonuses, special promotions, and seasonal events that elevate the gaming experience. The casino frequently hosts cash draws, slot tournaments, themed nights, and festive celebrations \u2014 especially during major holidays like Christmas, Halloween, and Canada Day. These events often include live music, complimentary treats, and chances to win big.\n<\/p>\n<br>\n<p> Progressive slot jackpots are a major attraction, with some machines offering local jackpots reaching up to C$250,000. On select days, players can earn double or triple points on specific games. The poker room features regular tournaments with buy-ins ranging from C$50 to C$500, and prize pools that can go up to C$10,000 in a single night.\n<\/p>\n<br>\n<p> Seasonal events include costume contests, free cocktails, and prize giveaways. For example, Halloween parties offer up to C$1,000 for best costume, while New Year\u2019s Eve draws can award gift cards worth up to C$5,000. Happy Hour promotions also bring free spins and instant win opportunities.\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Bonuses & Promotions<\/h4>\n\n\n        <ul>\n            <li>\u2022 Progressive Jackpots \u2014 up to C$250,000 on Alberta Gold & Lightning Link slots\n<\/li>\n            <li>\u2022 Poker Tournaments \u2014 buy-ins from C$50, prize pools up to C$10,000\n<\/li>\n            <li>\u2022 Seasonal Draws \u2014 cash, electronics, and C$5,000 Christmas giveaways\n<\/li>\n            <li>\u2022 Happy Hour \u2014 free spins and drinks from 5 PM to 7 PM\n<\/li>\n\t    <li>\u2022 Themed Parties \u2014 Halloween, New Year\u2019s, Canada Day with contests and prizes\n<\/li>\n\t    <li>\u2022 Double Points Days \u2014 Tuesdays and Thursdays on select slots\n\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\n Most Popular Games at Elbow River Casino\n<\/h3>\n\n<p> Elbow River Casino offers a wide variety of games that cater to both casual players and seasoned gamblers. With over 600 slot machines, dozens of table games, and a live poker room, the casino delivers a true Vegas-style experience in the heart of Calgary. Progressive slots with massive jackpots, classic card games like blackjack and baccarat, and exciting poker cash games make this venue a favorite among locals and tourists alike. The poker room features limit Hold\u2019em and Omaha games with buy-ins ranging from C$40 to C$200. There\u2019s also off-track betting and unique Asian games like Pai Gow.\n<\/p>\n<br>\n<p> Games are available in both standard and high-limit areas, with betting limits ranging from C$1 to C$12,000, making the casino accessible to all types of players. Thanks to its variety and quality, Elbow River Casino is considered one of Calgary\u2019s top gaming destinations.\n<\/p>\n<br>\n\n\n<div\n lang=\"en\"\n     style=\"\n       -webkit-columns: 320px 2;\n       -moz-columns: 320px 2;\n       columns: 320px 2;\n\n        -webkit-column-gap: 1.2em;\n       -moz-column-gap: 1.2em;\n       column-gap: 1.2em;\n \n       hyphens: auto;\n\">\n\n\n   <!-- \u041b\u0435\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Popular Slot Machines<\/h4>\n        <ul>\n            <li>\u2022 Alberta Gold \u2014 progressive jackpot up to C$250,000\n<\/li>\n            <li>\u2022 Lightning Link \u2014 bonus rounds and free spins\n<\/li>\n            <li>\u2022 American Original \u2014 classic style with modern features\n<\/li>\n            <li>\u2022 Hold & Win (e.g., Madonna) \u2014 popular mechanic with big win potential\n\n<\/li>\n        <\/ul>\n        <br>\n\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Table Games<\/h4>\n          <ul>\n            <li>\u2022 Blackjack \u2014 with Lucky Lucky side bet, limits from C$5 to C$1,000\n<\/li>\n            <li>\u2022 Baccarat \u2014 with Dragon and Panda side bets, limits up to C$12,000\n<\/li>\n            <li>\u2022 Roulette \u2014 European style, bets from C$1 to C$1,000\n<\/li>\n            <li>\u2022 Ultimate Texas Hold\u2019em \u2014 jackpot for Royal Flush, bets from C$5\n\n<\/li>\n        <\/ul>\n    <\/div>\n\n    <!-- \u041f\u0440\u0430\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Poker Room<\/h4>\n        <ul>\n            <li>\u2022 Limit Hold\u2019em \u2014 $4\/$8 and $20\/$40, buy-ins from C$40 to C$200\n<\/li>\n            <li>\u2022 Omaha Hi \u2014 $4\/$8, minimum C$40\n<\/li>\n            <li>\u2022 Bad Beat Jackpot \u2014 win even when you lose with a strong hand\n\n<\/li>\n        <\/ul>\n        <br>\n\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Additional Games<\/h4>\n          <ul>\n            <li>\u2022 Off-Track Betting \u2014 wager on horse races from around the world\n<\/li>\n            <li>\u2022 Pai Gow Tiles \u2014 Chinese tile game, limits from C$10 to C$1,000\n<\/li>\n        <\/ul>\n    <\/div>\n<\/div>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nElbow River Casino Betting Table: From Casual to High Stakes\n<\/h3>\n\n<p>Elbow River Casino offers a flexible betting system suitable for both casual players and high rollers. Minimum bets start at just C$1, while maximum bets can reach up to C$12,000 in VIP areas. This allows every guest to choose their comfort level and enjoy the game at their own pace. Below is an SEO-optimized table with current betting limits for the most popular games, helping you navigate the casino\u2019s offerings with ease.\n<\/p>\n\n<br>\n\n<table style=\"width:100%; border-collapse:collapse; margin-top:16px;\">\n            <thead>\n                <tr style=\"background:#EAC30F; color:#fff;\">\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:left;\">Game Type<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Minimum Bet<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Maximum Bet<\/th>\n                <\/tr>\n            <\/thead>\n            <tbody>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Slots<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">C$0.01 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">C$100 <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Roulette<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">C$1 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> C$1,000 <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Blackjack<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">C$5 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> C$1,000 <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Baccarat<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">C$10 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> C$12,000 <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Ultimate Texas Hold\u2019em<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">C$5<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">C$500<\/td>\n                <\/tr>\n       <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Pai Gow Tiles<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">C$10<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">C$1,000<\/td>\n                <\/tr>\n       <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Poker (Limit Hold\u2019em)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$4\/$8<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$20\/$40<\/td>\n                <\/tr>\n       <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Omaha Hi<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$4\/$8<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$20\/$40<\/td>\n                <\/tr>\n       <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Horse Racing Bets<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">C$2<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">C$500<\/td>\n                <\/tr>\n            <\/tbody>\n        <\/table><br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nShows, Music & Nightlife: The Entertainment Scene at Elbow River Casino\n<\/h3>\n\n<p> Elbow River Casino is more than just a gaming destination \u2014 it\u2019s a vibrant entertainment hub in Calgary. Every Friday and Saturday, the Bayou Stage comes alive with live performances from local and regional bands playing pop, rock, country, and funk hits. These mini-concerts are free to attend and offer a lively atmosphere where guests can dance, enjoy cocktails, and unwind after a day of gaming. The venue is intimate yet energetic, making it a favorite weekend spot for both locals and visitors.\n<\/p>\n<br>\n<p> A major highlight is the Yuk Yuk\u2019s Comedy Club, part of Canada\u2019s premier stand-up comedy chain. Weekly shows feature comedians from across the country, including special events with TV personalities and festival headliners. Tickets are available online or at the box office, and the club\u2019s cozy setting, combined with a full snack and drink menu, makes for a perfect night out.\n<\/p>\n<br>\n<p> In addition to regular music and comedy, Elbow River Casino hosts seasonal events like Halloween parties, New Year\u2019s Eve galas, 80s-themed nights, and Canada Day celebrations. These events include costume contests, prize giveaways, themed d\u00e9cor, and special menus. On festive nights, the casino transforms into a full-fledged nightlife venue with DJs, dancing, and a party atmosphere that lasts into the early hours.\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Main Entertainment at Elbow River Casino<\/h4>\n\n\n        <ul>\n            <li>\u2022 Bayou Stage Live Music \u2014 concerts every Friday & Saturday, pop and rock bands\n<\/li>\n            <li>\u2022 Yuk Yuk\u2019s Comedy Club \u2014 weekly stand-up shows, tickets from C$20\n<\/li>\n            <li>\u2022 Themed Parties \u2014 Halloween, New Year\u2019s, Canada Day with contests and prizes\n<\/li>\n            <li>\u2022 DJ Nights & Dancing \u2014 special events with DJs and dance floors\n<\/li>\n\t    <li>\u2022 Sports Viewing \u2014 live games on big screens at Sammy\u2019s Sports Bar\n<\/li>\n            <li>\u2022 Seasonal Shows \u2014 festive programs with live music and food specials\n\n<\/li>\n        <\/ul><br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nTaste & Unwind: Dining, Bars, and Comfort at Elbow River Casino\n<\/h3>\n\n<p> Elbow River Casino is not just about gaming and entertainment \u2014 it\u2019s also a place to relax, dine, and enjoy a full evening out. The casino features several restaurants and bars, each offering a distinct vibe and menu. Whether you're in the mood for seafood, steak, or Asian cuisine, you\u2019ll find something to satisfy your cravings. Everything is conveniently located within the casino, allowing guests to move seamlessly between dining, gaming, and live entertainment.\n<\/p>\n<br>\n<p> The most popular spot is Jester\u2019s Buffet, known for its affordable seafood dinners featuring crab legs and salmon. Sammy\u2019s Sports Bar is perfect for sports fans, offering large screens, juicy burgers, and cold beer. For a quick bite, Jester\u2019s Deli serves sandwiches and coffee, while Dim Sum offers authentic Chinese dishes. Although the casino doesn\u2019t have its own hotel, there are numerous accommodations nearby \u2014 from budget-friendly inns to luxury suites \u2014 making it easy to plan a full night out.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Dining & Relaxation at Elbow River Casino<\/h4>\n\n\n        <ul>\n            <li>\u2022 Jester\u2019s Buffet \u2014 seafood buffet with crab, salmon, and desserts\n<\/li>\n            <li>\u2022 Sammy\u2019s Sports Bar \u2014 sports bar with screens, steaks, and beer\n<\/li>\n            <li>\u2022 Jester\u2019s Deli \u2014 grab-and-go sandwiches and coffee\n<\/li>\n            <li>\u2022 Dim Sum \u2014 Chinese cuisine: dumplings, noodles, spring rolls\n<\/li>\n\t    <li>\u2022 Underground Parking \u2014 heated, secure, and free\n<\/li>\n            <li>\u2022 Nearby Hotels \u2014 3\u20135 star options within 1 km radius\n<\/li>\n        <\/ul><br>\n"
+            }
+        },
+        "faq": {
+            "title": "Frequently Asked Questions",
+            "items": [
+                {
+                    "title": "Do I need to register to enter the casino?",
+                    "answer": "No, registration is not required. Entry is free for guests aged 18+ with valid ID.\n\n\n"
+                },
+                {
+                    "title": "What payment methods are accepted?",
+                    "answer": "Cash and debit cards are accepted. ATMs are available on-site.\n\n\n"
+                },
+                {
+                    "title": "What languages are spoken by staff?",
+                    "answer": "English is the primary language. Some staff also speak French, Chinese, and others.\n\n\n"
+                },
+                {
+                    "title": "When are concerts held?",
+                    "answer": "Every Friday and Saturday on the Bayou Stage.\n\n\n"
+                },
+                {
+                    "title": "Are there VIP areas?",
+                    "answer": "Yes, with high-limit games and exclusive perks.\n\n\n"
+                }
+            ]
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/449",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Elbow River Casino"
+        }
+    },
+    "langs": [
+        {
+            "code": "en-CA",
+            "name": "\u0410\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u0438\u0439",
+            "isDefault": true
+        }
+    ]
+}
